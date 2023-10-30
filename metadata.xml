@@ -3,9 +3,5 @@
 <pkgmetadata>
 	<maintainer type="person">
 		<email>darthm.gentoo@darthm.de</email>
-		<name>darthm</name>
 	</maintainer>
-	<longdescription lang="en">
-		X.Org Xp library
-	</longdescription>
 </pkgmetadata>
