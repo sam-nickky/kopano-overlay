@@ -7,6 +7,7 @@ PHP_EXT_NAME="mapi"
 PHP_EXT_INI="yes"
 USE_PHP="php7-4"
 
+PYTHON_SINGLE_TARGET="python3_7"
 PYTHON_COMPAT=( python3_7 python3_8 )
 
 inherit autotools eutils flag-o-matic php-ext-source-r3 python-single-r1
